@@ -21,8 +21,6 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 20px;
   margin: 70px;
-  /* grid-template-columns: (1fr 1fr 1fr);
-  grid-template-rows: (1fr 1fr); */
 }
 
 .video {
