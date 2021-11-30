@@ -21,6 +21,14 @@ video {
   width: 100%;
   object-fit: cover;
   grid-template-columns: 1fr minmax(0, 1000px) 1fr;
+  padding-top: 2rem;
+}
+
+.youtube {
+  width: 100%;
+  object-fit: cover;
+  grid-template-columns: 1fr minmax(0, 1000px) 1fr;
+  padding-top: 2rem;
 }
 
 body {
